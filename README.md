@@ -14,8 +14,7 @@ This project serves as a **personal CV template** built using **semantic HTML**.
 ✅ **Personal Information**  
 ✅ **Education**  
 ✅ **Skills**  
-✅ **Work Experience**  
-✅ **Projects**  
+✅ **Work Experience**    
 
 The layout is designed for readability and can be easily customized.
 
