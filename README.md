@@ -66,3 +66,7 @@ Want to improve this project? Follow these steps:
    git push origin feature/your-feature
    ```
 5. **Open a pull request** on GitHub.
+   ```bash
+7. For more information, check out the project roadmap: https://roadmap.sh/projects/single-page-cv.
+
+
